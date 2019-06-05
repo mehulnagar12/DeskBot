@@ -1,0 +1,116 @@
+[
+  {
+    "value": "running",
+    "synonyms": [
+      "correr"
+    ]
+  },
+  {
+    "value": "weight training",
+    "synonyms": [
+      "entrenamiento de pesas"
+    ]
+  },
+  {
+    "value": "marathon",
+    "synonyms": [
+      "maratón"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "acampar"
+    ]
+  },
+  {
+    "value": "yoga",
+    "synonyms": [
+      "yoga"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "nadar",
+      "natación"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "vuelta en bici",
+      "paseo en bici",
+      "bici",
+      "carrera en bici"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "entrenamiento",
+      "workout"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "caminar",
+      "caminata",
+      "trotar",
+      "dar una vuelta"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfear"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "escalar",
+      "subida a la montaña",
+      "ir a la montaña",
+      "escalar a la montaña",
+      "escalar la montaña"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "patinar"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "jugar a frisbee"
+    ]
+  },
+  {
+    "value": "crossfit",
+    "synonyms": [
+      "entrenamiento de crossfit"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "esquiar"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "senderismo"
+    ]
+  },
+  {
+    "value": "go to the beach",
+    "synonyms": [
+      "ir a la playa"
+    ]
+  }
+]

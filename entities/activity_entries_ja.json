@@ -1,0 +1,149 @@
+[
+  {
+    "value": "cycling",
+    "synonyms": [
+      "サイクリング"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "ハイキング"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "ウォーキング",
+      "歩行",
+      "散歩"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "スケート",
+      "スケーティング"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "フリスビー"
+    ]
+  },
+  {
+    "value": "tree climbing",
+    "synonyms": [
+      "木登り",
+      "木のぼり"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "登山",
+      "山登り",
+      "登り"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "パラセイリング",
+      "パラセーリング"
+    ]
+  },
+  {
+    "value": "sightseeing",
+    "synonyms": [
+      "観光"
+    ]
+  },
+  {
+    "value": "birdwatching",
+    "synonyms": [
+      "バードウォッチング",
+      "探鳥"
+    ]
+  },
+  {
+    "value": "kayaking",
+    "synonyms": [
+      "カヤック"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "スノーボード"
+    ]
+  },
+  {
+    "value": "moon-watching",
+    "synonyms": [
+      "月見"
+    ]
+  },
+  {
+    "value": "mountain biking",
+    "synonyms": [
+      "マウンテンバイク"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "ランニング",
+      "走る",
+      "走り"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "スキー"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "スイミング",
+      "水泳",
+      "泳ぐ"
+    ]
+  },
+  {
+    "value": "blossom-watching",
+    "synonyms": [
+      "花見"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "サーフィン",
+      "波乗り遊び"
+    ]
+  },
+  {
+    "value": "snowball fighting",
+    "synonyms": [
+      "雪合戦",
+      "雪投げ"
+    ]
+  },
+  {
+    "value": "mushroom hunting",
+    "synonyms": [
+      "きのこ狩り",
+      "キノコ狩り"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "ジョギング"
+    ]
+  }
+]

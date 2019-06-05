@@ -1,0 +1,27 @@
+[
+  {
+    "value": "extremely hot",
+    "synonyms": [
+      "trop chaud",
+      "très chaud"
+    ]
+  },
+  {
+    "value": "hot",
+    "synonyms": [
+      "chaud"
+    ]
+  },
+  {
+    "value": "warm",
+    "synonyms": [
+      "assez chaud"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "froid"
+    ]
+  }
+]

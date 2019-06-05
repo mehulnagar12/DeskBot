@@ -1,0 +1,52 @@
+[
+  {
+    "value": "R",
+    "synonyms": [
+      "Grad R",
+      "Grad Rankine",
+      "Grade Rankine",
+      "Rankine Grad",
+      "Rankine Grade",
+      "Rankine",
+      "R",
+      "Ra"
+    ]
+  },
+  {
+    "value": "F",
+    "synonyms": [
+      "Grad F",
+      "Grad Fahrenheit",
+      "Grade Fahrenheit",
+      "Fahrenheit Grad",
+      "Fahrenheit Grade",
+      "Fahrenheit",
+      "F"
+    ]
+  },
+  {
+    "value": "K",
+    "synonyms": [
+      "Grad K",
+      "Kelvin",
+      "Kelvins",
+      "Kelvin Grad",
+      "Grade Kelvin",
+      "Kelvin Grade",
+      "K"
+    ]
+  },
+  {
+    "value": "C",
+    "synonyms": [
+      "Grad C",
+      "Grad Celsius",
+      "Grade Celsius",
+      "Celsius Grad",
+      "Celsius Grade",
+      "Celsius",
+      "C",
+      "Celcius"
+    ]
+  }
+]

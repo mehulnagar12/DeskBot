@@ -1,0 +1,57 @@
+[
+  {
+    "value": "light rain",
+    "synonyms": [
+      "leichter regen"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sonne",
+      "sonnig",
+      "Sonnenschein"
+    ]
+  },
+  {
+    "value": "clouds",
+    "synonyms": [
+      "wolkig",
+      "wolken"
+    ]
+  },
+  {
+    "value": "snow",
+    "synonyms": [
+      "Schnee"
+    ]
+  },
+  {
+    "value": "thunderstorm",
+    "synonyms": [
+      "Gewitter"
+    ]
+  },
+  {
+    "value": "rain",
+    "synonyms": [
+      "regen",
+      "regnen",
+      "regnet"
+    ]
+  },
+  {
+    "value": "intermittent clouds",
+    "synonyms": [
+      "leicht bewölkt"
+    ]
+  },
+  {
+    "value": "snow",
+    "synonyms": [
+      "schnee",
+      "schneit",
+      "schneien"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "value": "hot",
+    "synonyms": [
+      "caliente",
+      "calor",
+      "alta",
+      "caluroso"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "frío",
+      "fría",
+      "baja"
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "value": "snow",
+    "synonyms": [
+      "雪",
+      "小雪",
+      "粉雪"
+    ]
+  },
+  {
+    "value": "wind",
+    "synonyms": [
+      "風"
+    ]
+  },
+  {
+    "value": "freezing rain",
+    "synonyms": [
+      "雨氷",
+      "凍雨"
+    ]
+  },
+  {
+    "value": "fog",
+    "synonyms": [
+      "霧",
+      "濃霧"
+    ]
+  },
+  {
+    "value": "thunderstorm",
+    "synonyms": [
+      "雷雨",
+      "雷電",
+      "サンダーストーム",
+      "雷",
+      "かみなり"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "晴れ",
+      "晴れる",
+      "晴天"
+    ]
+  },
+  {
+    "value": "rain snow",
+    "synonyms": [
+      "みぞれ"
+    ]
+  },
+  {
+    "value": "shower",
+    "synonyms": [
+      "にわか雨"
+    ]
+  },
+  {
+    "value": "ice",
+    "synonyms": [
+      "氷"
+    ]
+  },
+  {
+    "value": "rain",
+    "synonyms": [
+      "雨",
+      "小雨",
+      "大雨"
+    ]
+  },
+  {
+    "value": "hurricanes",
+    "synonyms": [
+      "ハリケーン",
+      "大嵐",
+      "大あらし"
+    ]
+  },
+  {
+    "value": "earthquake",
+    "synonyms": [
+      "地震"
+    ]
+  },
+  {
+    "value": "tsunami",
+    "synonyms": [
+      "津波"
+    ]
+  },
+  {
+    "value": "storm",
+    "synonyms": [
+      "嵐",
+      "あらし"
+    ]
+  },
+  {
+    "value": "volcano eruption",
+    "synonyms": [
+      "火山噴火"
+    ]
+  },
+  {
+    "value": "tornadoes",
+    "synonyms": [
+      "トルネード",
+      "暴風"
+    ]
+  },
+  {
+    "value": "drizzle",
+    "synonyms": [
+      "細雨",
+      "霧雨",
+      "こぬか雨",
+      "小糠雨"
+    ]
+  },
+  {
+    "value": "haze",
+    "synonyms": [
+      "薄霧",
+      "もや",
+      "かすみ"
+    ]
+  },
+  {
+    "value": "overcast",
+    "synonyms": [
+      "曇り",
+      "雲の多い",
+      "曇った"
+    ]
+  }
+]

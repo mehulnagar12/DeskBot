@@ -1,0 +1,39 @@
+[
+  {
+    "value": "F",
+    "synonyms": [
+      "Fahrenheit",
+      "F",
+      "graus Fahrenheit"
+    ]
+  },
+  {
+    "value": "R",
+    "synonyms": [
+      "Rankine",
+      "R",
+      "Ra",
+      "graus Rankine"
+    ]
+  },
+  {
+    "value": "K",
+    "synonyms": [
+      "Kelvin",
+      "Kelvins",
+      "K",
+      "graus Kelvin",
+      "graus Kelvins"
+    ]
+  },
+  {
+    "value": "C",
+    "synonyms": [
+      "Celsius",
+      "C",
+      "Celcius",
+      "graus Celsius",
+      "graus Celcius"
+    ]
+  }
+]

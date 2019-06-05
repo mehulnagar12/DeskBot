@@ -1,0 +1,134 @@
+[
+  {
+    "value": "walking",
+    "synonyms": [
+      "步行"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "滑雪"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "滑板"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "单板滑雪"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "滑翔伞"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "飞盘"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "跑"
+    ]
+  },
+  {
+    "value": "snowball fights",
+    "synonyms": [
+      "打雪仗"
+    ]
+  },
+  {
+    "value": "crossfit",
+    "synonyms": [
+      "crossfit"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "游泳"
+    ]
+  },
+  {
+    "value": "kayaking",
+    "synonyms": [
+      "皮划艇"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "徒步旅行"
+    ]
+  },
+  {
+    "value": "yoga",
+    "synonyms": [
+      "瑜伽"
+    ]
+  },
+  {
+    "value": "go sledding",
+    "synonyms": [
+      "雪橇"
+    ]
+  },
+  {
+    "value": "windsurf",
+    "synonyms": [
+      "风筝冲浪"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "自行车"
+    ]
+  },
+  {
+    "value": "fly a kite",
+    "synonyms": [
+      "风筝"
+    ]
+  },
+  {
+    "value": "canoe",
+    "synonyms": [
+      "独木舟"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "露营"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "攀登"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "跑步"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "冲浪"
+    ]
+  }
+]

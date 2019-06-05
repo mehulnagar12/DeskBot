@@ -1,0 +1,91 @@
+[
+  {
+    "value": "coat",
+    "synonyms": [
+      "大衣",
+      "外衣",
+      "大氅",
+      "外套"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "手套"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "夾克"
+    ]
+  },
+  {
+    "value": "gum boots",
+    "synonyms": [
+      "膠皮靴"
+    ]
+  },
+  {
+    "value": "rain coat",
+    "synonyms": [
+      "雨衣"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "毛衣",
+      "薄毛衣"
+    ]
+  },
+  {
+    "value": "rain pants",
+    "synonyms": [
+      "雨褲"
+    ]
+  },
+  {
+    "value": "sunscreen",
+    "synonyms": [
+      "防曬霜"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "墨鏡"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "毛線衣"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "雨傘",
+      "傘"
+    ]
+  },
+  {
+    "value": "wool cap",
+    "synonyms": [
+      "毛線帽"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "圍巾"
+    ]
+  },
+  {
+    "value": "wool socks",
+    "synonyms": [
+      "羊毛襪"
+    ]
+  }
+]

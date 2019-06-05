@@ -1,0 +1,9 @@
+{
+  "id": "6a0992f9-6f7c-4c12-bba5-8929683d9ca7",
+  "name": "unit-temperature",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

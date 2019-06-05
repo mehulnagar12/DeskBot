@@ -1,0 +1,44 @@
+[
+  {
+    "value": "hot",
+    "synonyms": [
+      "热"
+    ]
+  },
+  {
+    "value": "cold",
+    "synonyms": [
+      "冷"
+    ]
+  },
+  {
+    "value": "warm",
+    "synonyms": [
+      "暖"
+    ]
+  },
+  {
+    "value": "extremely hot",
+    "synonyms": [
+      "非常热"
+    ]
+  },
+  {
+    "value": "freezing",
+    "synonyms": [
+      "寒冷"
+    ]
+  },
+  {
+    "value": "mild",
+    "synonyms": [
+      "温和"
+    ]
+  },
+  {
+    "value": "chilly",
+    "synonyms": [
+      "凉快"
+    ]
+  }
+]

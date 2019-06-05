@@ -1,0 +1,128 @@
+[
+  {
+    "value": "walking",
+    "synonyms": [
+      "passeggiare",
+      "passeggiate",
+      "passeggiata"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "pattinaggio"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding",
+      "snowboard"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "corsa",
+      "correre",
+      "jogging",
+      "corso",
+      "corse"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "sciare",
+      "sci"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "nuoto",
+      "nuotare"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parapendio"
+    ]
+  },
+  {
+    "value": "snowball fights",
+    "synonyms": [
+      "battaglia di palle di neve"
+    ]
+  },
+  {
+    "value": "crossfit",
+    "synonyms": [
+      "crossfit",
+      "cross fit"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "climbing",
+      "arrampicata"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee",
+      "giocare a frisbee"
+    ]
+  },
+  {
+    "value": "canoe",
+    "synonyms": [
+      "canoe"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfing"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "camping"
+    ]
+  },
+  {
+    "value": "kayaking",
+    "synonyms": [
+      "kayaking"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "hiking",
+      "hike",
+      "fare un\u0027escursione"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "ciclismo",
+      "bici",
+      "bicicletta",
+      "vado in bicicletta",
+      "andare in bici"
+    ]
+  },
+  {
+    "value": "yoga",
+    "synonyms": [
+      "yoga"
+    ]
+  }
+]

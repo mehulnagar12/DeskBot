@@ -1,0 +1,147 @@
+[
+  {
+    "value": "skiing",
+    "synonyms": [
+      "skifahren",
+      "ski fahren",
+      "schi fahren",
+      "ski",
+      "schi"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "gehen",
+      "spazieren gehen",
+      "spazieren",
+      "wandern",
+      "zu fuß"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "joggen",
+      "jogging"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimmen",
+      "schwimmen"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "klettern",
+      "bergsteigern"
+    ]
+  },
+  {
+    "value": "snowball fights",
+    "synonyms": [
+      "Schneeballschlacht",
+      "Schneeballschlachten"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "Radfahren",
+      "Fahrradfahren",
+      "Rad fahren",
+      "Fahrrad fahren",
+      "Fahrradwetter",
+      "Radtour"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfen",
+      "surfing"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "schlittschuhlaufen",
+      "schlittschuh laufen"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "camping",
+      "zelten",
+      "Campingwetter"
+    ]
+  },
+  {
+    "value": "renne",
+    "synonyms": [
+      "renne"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "laufen",
+      "rennen",
+      "gerennt",
+      "gelaufen"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "training",
+      "trainieren"
+    ]
+  },
+  {
+    "value": "riding",
+    "synonyms": [
+      "reiten"
+    ]
+  },
+  {
+    "value": "fly a kite",
+    "synonyms": [
+      "Drachen steigen",
+      "Drachen fliegen",
+      "Drachen steigen lassen",
+      "Drachen fliegen lassen",
+      "drahen steigen"
+    ]
+  },
+  {
+    "value": "go sledding",
+    "synonyms": [
+      "rodeln"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding",
+      "snowboarden"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parasailing",
+      "parasegeln"
+    ]
+  }
+]

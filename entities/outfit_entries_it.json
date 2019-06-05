@@ -1,0 +1,124 @@
+[
+  {
+    "value": "scarf",
+    "synonyms": [
+      "sciarpa",
+      "sciarpe"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "guanti"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "giacca",
+      "giubbotto"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "jumper"
+    ]
+  },
+  {
+    "value": "gum boots",
+    "synonyms": [
+      "stivali di gomma"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "occhiali da sole"
+    ]
+  },
+  {
+    "value": "sunscreen",
+    "synonyms": [
+      "crema solare"
+    ]
+  },
+  {
+    "value": "coat",
+    "synonyms": [
+      "giubotto"
+    ]
+  },
+  {
+    "value": "rain coat",
+    "synonyms": [
+      "cappotto di pioggia",
+      "impermeabile"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "capello",
+      "capelli"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "ombrello",
+      "ombrelli"
+    ]
+  },
+  {
+    "value": "t-shirt",
+    "synonyms": [
+      "t-shirt"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "gonna",
+      "gonne"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "sweater",
+      "pullover"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "jeans"
+    ]
+  },
+  {
+    "value": "bra",
+    "synonyms": [
+      "reggiseno"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "pantaloni corti"
+    ]
+  },
+  {
+    "value": "tie",
+    "synonyms": [
+      "cravatta",
+      "cravatte"
+    ]
+  },
+  {
+    "value": "tank top",
+    "synonyms": [
+      "tank top"
+    ]
+  }
+]
