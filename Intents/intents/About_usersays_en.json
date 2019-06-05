@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8f58deed-9b49-4042-a38b-25c545176b5f",
+    "data": [
+      {
+        "text": "About Synapse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce8f8736-7a5b-4c0f-8ebd-72418b4d0dd0",
+    "data": [
+      {
+        "text": "Can you tell me about synapse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c90cfe3-d181-486a-88d1-5f6ca92c9a51",
+    "data": [
+      {
+        "text": "I want to know about Synapse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

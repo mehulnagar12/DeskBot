@@ -1,0 +1,27 @@
+{
+  "id": "3a28ff9c-77fa-4f64-9b11-1cad42b3d5c6",
+  "name": "fit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fit N Fun is a highly acclaimed multisport program to make physical fitness and sports fun, engaging and enjoyable for young kids"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

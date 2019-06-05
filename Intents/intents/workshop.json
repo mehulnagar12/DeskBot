@@ -1,0 +1,27 @@
+{
+  "id": "07b7c465-016d-4f49-92b9-3e0e880d41bd",
+  "name": "workshop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, plenty of them. Please follow us on FB @caterpillar kids or log on to our website: www.caterpillarkids.infor news updates"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

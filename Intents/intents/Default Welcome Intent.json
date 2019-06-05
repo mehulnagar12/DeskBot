@@ -1,0 +1,109 @@
+{
+  "id": "c563bb5b-710f-47a6-aa80-3b116478f2f5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "da",
+          "speech": [
+            "Hej!",
+            "Dav!",
+            "Goddag!",
+            "Hejsa!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Ciao!",
+            "Buongiorno!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Hai!",
+            "Halo!",
+            "Selamat siang!",
+            "Salam!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": "こんにちは！"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "नमस्ते!",
+            "नमस्कार!",
+            "आपका दिन शुभ हो!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hallo!",
+            "Guten Tag!",
+            "Ich grüße dich!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi This is atom Labz! How are you doing?",
+            "Hello This is atom Labz! How can I help you?",
+            "Good day! What can I do for you today?",
+            "Greetings! How can I assist?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

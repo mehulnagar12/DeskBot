@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2e6a553f-fcb6-47d8-b1ed-22a9ad8966eb",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974342a8-8d9d-44aa-bd68-4110e582f767",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937d6b5a-1e18-4977-845a-05d4fffbe052",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e209ca10-dfd8-435d-8628-9ef96496f558",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0bd855d-506a-4d25-b584-0b5781db11a8",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eea1e6a-b76f-423a-bcc9-9166403f78e1",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5347958e-eb2a-4607-9d95-7e8e7a89e47a",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "614687bb-481a-49af-b231-0e62d4719b30",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "978c4147-8aa3-4b2a-a6e7-40136feee502",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d4c763-caf5-4ee0-981c-96d4842b9059",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a553f-fcb6-47d8-b1ed-22a9ad8966eb",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974342a8-8d9d-44aa-bd68-4110e582f767",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937d6b5a-1e18-4977-845a-05d4fffbe052",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e209ca10-dfd8-435d-8628-9ef96496f558",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0bd855d-506a-4d25-b584-0b5781db11a8",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eea1e6a-b76f-423a-bcc9-9166403f78e1",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5347958e-eb2a-4607-9d95-7e8e7a89e47a",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "614687bb-481a-49af-b231-0e62d4719b30",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "978c4147-8aa3-4b2a-a6e7-40136feee502",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d4c763-caf5-4ee0-981c-96d4842b9059",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a553f-fcb6-47d8-b1ed-22a9ad8966eb",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974342a8-8d9d-44aa-bd68-4110e582f767",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937d6b5a-1e18-4977-845a-05d4fffbe052",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e209ca10-dfd8-435d-8628-9ef96496f558",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0bd855d-506a-4d25-b584-0b5781db11a8",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eea1e6a-b76f-423a-bcc9-9166403f78e1",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5347958e-eb2a-4607-9d95-7e8e7a89e47a",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "614687bb-481a-49af-b231-0e62d4719b30",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "978c4147-8aa3-4b2a-a6e7-40136feee502",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d4c763-caf5-4ee0-981c-96d4842b9059",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a553f-fcb6-47d8-b1ed-22a9ad8966eb",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974342a8-8d9d-44aa-bd68-4110e582f767",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937d6b5a-1e18-4977-845a-05d4fffbe052",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e209ca10-dfd8-435d-8628-9ef96496f558",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0bd855d-506a-4d25-b584-0b5781db11a8",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eea1e6a-b76f-423a-bcc9-9166403f78e1",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5347958e-eb2a-4607-9d95-7e8e7a89e47a",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "614687bb-481a-49af-b231-0e62d4719b30",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "978c4147-8aa3-4b2a-a6e7-40136feee502",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d4c763-caf5-4ee0-981c-96d4842b9059",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a553f-fcb6-47d8-b1ed-22a9ad8966eb",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974342a8-8d9d-44aa-bd68-4110e582f767",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937d6b5a-1e18-4977-845a-05d4fffbe052",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e209ca10-dfd8-435d-8628-9ef96496f558",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0bd855d-506a-4d25-b584-0b5781db11a8",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eea1e6a-b76f-423a-bcc9-9166403f78e1",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5347958e-eb2a-4607-9d95-7e8e7a89e47a",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "614687bb-481a-49af-b231-0e62d4719b30",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "978c4147-8aa3-4b2a-a6e7-40136feee502",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d4c763-caf5-4ee0-981c-96d4842b9059",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

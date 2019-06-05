@@ -1,0 +1,27 @@
+{
+  "id": "f04d87c7-cb82-4249-8403-7f252ecc2601",
+  "name": "stay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. We have sufficient and capable manpower to tend to all kid’s needs during his/her stay at CATERPILLAR KIDS. Moreover, important aspect of our program is to make kids confident and independent."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

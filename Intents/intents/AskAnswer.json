@@ -1,0 +1,38 @@
+{
+  "id": "17411df2-8c79-42ee-a1bf-5a17f11844b6",
+  "name": "AskAnswer",
+  "auto": true,
+  "contexts": [
+    "AskAns-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b73182c9-5df3-4632-aa83-cddd31cc7fc7",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "ans",
+          "value": "$ans",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

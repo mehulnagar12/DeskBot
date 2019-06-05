@@ -1,0 +1,27 @@
+{
+  "id": "25b7ac3b-67e1-486c-9e7e-965c952fc089",
+  "name": "founder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Caterpillar Kids is started with a team of three like-minded parents Priya Sanghvi, Neelesh Sachdeva and Ritesh Gaggar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

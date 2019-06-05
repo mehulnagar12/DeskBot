@@ -1,0 +1,27 @@
+{
+  "id": "0bf33591-85da-42a1-b001-6a9f25716770",
+  "name": "scribble",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A place where kids learn to express their thoughts, feelings in a way that invigorates other people’s senses through creative arts"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ed6b262a-98bd-4bb7-870d-9c0fde8cd33d",
+  "name": "EventsOrganized",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kindly visit our LinkedIn, Facebook or Twitter to know more"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

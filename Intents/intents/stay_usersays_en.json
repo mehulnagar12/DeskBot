@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e15662ca-0f87-41ee-bdd3-b1d93d03cba4",
+    "data": [
+      {
+        "text": "do we have to wait for the kids to complete their class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a55c5a88-f0ec-40b1-ac8a-8d5a75de9a11",
+    "data": [
+      {
+        "text": "do we have to stay with the kids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0bb1600-4bd6-4e8b-8c1a-109002434828",
+    "data": [
+      {
+        "text": "are parents allowed to stay with the kids?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "daf34ecf-3ea9-4212-8b52-97eb631f9862",
+    "data": [
+      {
+        "text": "Can you tell me about scribble art studio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32c92d1d-94e7-47c1-9f99-a856746c5199",
+    "data": [
+      {
+        "text": "I want to know about scribble art studio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aeaeeb62-2c3f-489a-88ca-f38259a60a07",
+    "data": [
+      {
+        "text": "What is Scribble art studio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

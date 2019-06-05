@@ -1,0 +1,28 @@
+{
+  "id": "fe69f6f4-9299-41c5-b15a-0a665215a73e",
+  "name": "location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Vijay Nagar, Saket, Mahalakshmi Nagar, Manik Bagh road and Pipliyahana"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

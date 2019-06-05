@@ -1,0 +1,35 @@
+[
+  {
+    "id": "7f8e672f-d65e-46b1-b8ad-e5a6603df332",
+    "data": [
+      {
+        "text": "Number of centers in Indore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16ad7dc6-9c56-4f9c-b5ae-1654bb569302",
+    "data": [
+      {
+        "text": "Number of centers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50273948-db1d-45e8-92b5-bec9efe8f706",
+    "data": [
+      {
+        "text": "How many centers are there is Indore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "1561664b-5b5c-4759-a186-7556fc4e346f",
+  "name": "different",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our passion and belief that after school programs, if delivered appropriately, play an immensely important role in shaping a kid’s future."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

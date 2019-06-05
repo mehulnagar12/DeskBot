@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d7580f08-7e1e-4183-b6c1-bfbce0775b17",
+    "data": [
+      {
+        "text": "sport you like the most?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95cc3881-c7c2-494f-be10-87f891f342e7",
+    "data": [
+      {
+        "text": "which is your favorite sport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

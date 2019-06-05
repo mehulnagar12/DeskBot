@@ -1,0 +1,27 @@
+{
+  "id": "511f9b7f-09d4-4578-b2ca-c27058fe7267",
+  "name": "program",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "CATERPILLAR KIDS is currently offering six programs – Bright Minds, Fit N Fun, Atom Labz – Robotics, Martial Arts, Scribble Art Studio and Chessmates"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

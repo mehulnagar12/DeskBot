@@ -1,0 +1,19 @@
+[
+  {
+    "id": "f575359f-dd99-4ebf-a808-2ee0693d7838",
+    "data": [
+      {
+        "text": "What is your favorite ",
+        "userDefined": false
+      },
+      {
+        "text": "color",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

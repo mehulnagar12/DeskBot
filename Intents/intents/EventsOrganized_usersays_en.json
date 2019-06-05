@@ -1,0 +1,46 @@
+[
+  {
+    "id": "9967abc0-6fed-4fd8-9b1b-e2df7e372815",
+    "data": [
+      {
+        "text": "I want to know about the latest events organized by your company?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28518dd9-8d3e-4b0c-8f8a-eabb4ba881ce",
+    "data": [
+      {
+        "text": "Latest events organized by your company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eba6fc8e-bd8b-4b4d-a2e1-36ead37aeed7",
+    "data": [
+      {
+        "text": "Latest events organized in your company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3daf406-a96e-4a20-9fc7-95e021f6524c",
+    "data": [
+      {
+        "text": "I want to know about the latest events organized in your company?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

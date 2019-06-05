@@ -1,0 +1,27 @@
+{
+  "id": "dc94e200-3c6c-4d37-952a-fd04fab9c75e",
+  "name": "atom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Atom Labz is a pioneer in developing robotics programs that uses the natural curiosity of kids to exposure them to the marvels of technology."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

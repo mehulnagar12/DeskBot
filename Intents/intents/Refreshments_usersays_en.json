@@ -1,0 +1,79 @@
+[
+  {
+    "id": "11508022-8a6a-43d5-9dc0-359082a6458b",
+    "data": [
+      {
+        "text": "coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e19f38d-c84f-422c-9182-c98df02e47af",
+    "data": [
+      {
+        "text": "tea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93288a1e-2b31-481e-a342-8428bede0fb4",
+    "data": [
+      {
+        "text": "water",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc9f2086-f97d-4c82-9412-695867b44c0b",
+    "data": [
+      {
+        "text": "can I have glass of water",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27f46dcc-0d30-46b7-8a13-75e41a7c6d6b",
+    "data": [
+      {
+        "text": "I want a cup of coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b7746ef-df15-4014-8943-b4ad8fd3823f",
+    "data": [
+      {
+        "text": "I want to have a cup of tea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad43a8c0-8f3a-43d5-9364-d9e0304309fc",
+    "data": [
+      {
+        "text": "I want a glass of water",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

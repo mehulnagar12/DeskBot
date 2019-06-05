@@ -1,0 +1,35 @@
+[
+  {
+    "id": "44157d5b-55a9-4c1e-908d-557ecf13ef35",
+    "data": [
+      {
+        "text": "Are there any workshops organized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "284bd1fd-1862-4185-b775-b396f03e3992",
+    "data": [
+      {
+        "text": "what workshops are organized by caterpillar kids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e7cc12b-2101-4193-9cec-bc41fec54fcc",
+    "data": [
+      {
+        "text": "Do you do workshops?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

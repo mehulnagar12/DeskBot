@@ -1,0 +1,46 @@
+[
+  {
+    "id": "57fd4368-4697-4426-aa7d-517d35872c03",
+    "data": [
+      {
+        "text": "number of students in a single class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c344eacf-f65f-4c4d-9fa7-8a8e21c36f2e",
+    "data": [
+      {
+        "text": "number of students in a single batch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31327a4f-8286-4c7c-8183-b6f2eff5455c",
+    "data": [
+      {
+        "text": "what is he class size of kids in one program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc0b9f9f-20aa-43fb-99e2-35efa4d30d2b",
+    "data": [
+      {
+        "text": "what is the batch size of kids in one program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

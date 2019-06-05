@@ -1,0 +1,36 @@
+{
+  "id": "d39772b9-586d-43a2-92ce-aa52876f0a13",
+  "name": "Meeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53909ff6-eef6-40f4-aebe-f652de85cd47",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "meet",
+          "value": "$meet",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

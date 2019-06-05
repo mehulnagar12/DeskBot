@@ -1,0 +1,45 @@
+{
+  "id": "7f3bf2e6-2c4b-4ba6-8e9f-5bbcadd6f138",
+  "name": "AskName",
+  "auto": true,
+  "contexts": [
+    "PlayGame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "askName",
+      "affectedContexts": [
+        {
+          "name": "AskAns-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "af1d5a7f-5c7b-43bc-8065-d721ef7bbdfc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

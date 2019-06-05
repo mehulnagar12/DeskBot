@@ -1,0 +1,27 @@
+{
+  "id": "4105d71a-c5b1-4c44-a484-be604843c298",
+  "name": "question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Caterpillar Kids (CATERPILLAR KIDS) is a pioneering after-school program for building a variety of skills in kids through innovative and engaging techniques."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

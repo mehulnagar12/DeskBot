@@ -1,0 +1,27 @@
+{
+  "id": "6c01b2f3-4228-426d-a68f-b4b44c0fe0d8",
+  "name": "chess",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Often known as a game for the intellectually gifted, chess is the best sport to exercise the most important organ in our bodies: The Brain."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

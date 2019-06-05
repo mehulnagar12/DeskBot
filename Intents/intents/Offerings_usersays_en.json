@@ -1,0 +1,35 @@
+[
+  {
+    "id": "603999e7-8225-4434-8816-adf8cde6416b",
+    "data": [
+      {
+        "text": "Companies various offerings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1875377a-69bb-455d-9b7a-63e608d8d910",
+    "data": [
+      {
+        "text": "can you tell me about companies various offerings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42ca4374-c747-40c0-ab71-5900a9233408",
+    "data": [
+      {
+        "text": "I want to know about companies various offerings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
