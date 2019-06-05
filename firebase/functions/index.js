@@ -71,7 +71,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
               service: 'gmail',
               auth: {
                 user: 'mehulnagar26@gmail.com',
-                pass: 'acidpops'
+                pass: 'YOUR PWD'
               }
             });
 
