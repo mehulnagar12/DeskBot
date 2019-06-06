@@ -70,14 +70,14 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
             var transporter = nodemailer.createTransport({
               service: 'gmail',
               auth: {
-                user: 'mehulnagar26@gmail.com',
+                user: 'From- EmailID',
                 pass: 'YOUR PWD'
               }
             });
 
             var mailOptions = {
-              from: 'mehulnagar26@gmail.com',
-              to: Email,
+              from: 'EmailID',
+              to: 'Reciever ID',
               subject: 'Sending Email using Node.js',
               text: 'That was easy!'
             };
